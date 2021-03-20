@@ -1,5 +1,6 @@
 name: Website
-title: null
+title: CSC109 Homepage
+description: Git Educated
 plugins:
   - jemoji
 theme: jekyll-theme-midnight
